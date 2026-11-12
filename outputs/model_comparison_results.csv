@@ -1,0 +1,5 @@
+Model,Micro-F1,Macro-F1,Micro-AP,Macro-AP,Hamming Loss
+Poster-only,0.4037,0.2352,0.4181,0.2639,0.1064
+Text-only,0.5771,0.4459,0.6598,0.5438,0.0769
+Early Fusion,0.5745,0.4591,0.6312,0.5155,0.0816
+Late Fusion,0.6255,0.541,0.6728,0.566,0.0964
